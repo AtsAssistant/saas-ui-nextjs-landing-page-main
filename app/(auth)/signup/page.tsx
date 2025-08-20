@@ -1,3 +1,4 @@
+'use client'
 import { Box, Center, Stack, Text, VStack, Heading, Button } from '@chakra-ui/react'
 import { Link } from '@saas-ui/react'
 import { NextPage } from 'next'
