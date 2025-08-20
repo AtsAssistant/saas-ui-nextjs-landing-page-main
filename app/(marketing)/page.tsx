@@ -59,7 +59,7 @@ import faq from '#data/faq'
 import pricing from '#data/pricing'
 import testimonials from '#data/testimonials'
 
-export const meta: Metadata = {
+const meta: Metadata = {
   title: 'ATS Assist – AI Resumes & Job Application Tracker',
   description: 'Build ATS-friendly resumes with AI and track your job applications in one dashboard.',
 }
