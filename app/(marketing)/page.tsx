@@ -440,7 +440,7 @@ const FeaturesSection = () => {
           description: (
             <>
               Access your job search tools anywhere with our mobile app, available on{' '}
-              <Link href="https://apps.apple.com">iOS</Link> and Android.
+              <Link href="#">iOS</Link> and Android.
             </>
           ),
           variant: 'inline',
