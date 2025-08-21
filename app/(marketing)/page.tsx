@@ -259,34 +259,7 @@ const HighlightsSection = () => {
             </Text>
           </Box>
 
-          <Flex
-            rounded="full"
-            borderWidth="1px"
-            flexDirection="row"
-            alignItems="center"
-            py="1"
-            ps="8"
-            pe="2"
-            bg="primary.900"
-            _dark={{ bg: 'gray.900' }}
-          >
-            <Box>
-              <Text color="yellow.400" display="inline">
-                Schedule
-              </Text>{' '}
-              <Text color="cyan.300" display="inline">
-                a Demo
-              </Text>
-            </Box>
-            <IconButton
-              icon={hasCopied ? <FiCheck /> : <FiCopy />}
-              aria-label="Copy calendly link"
-              onClick={onCopy}
-              variant="ghost"
-              ms="4"
-              isRound
-              color="white"
-            />
+          
           </Flex>
         </VStack>
       </HighlightsItem>
