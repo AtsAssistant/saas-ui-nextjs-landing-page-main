@@ -42,20 +42,20 @@ const siteConfig = {
     copyright: (
       <>
         Built by{' '}
-        <Link href="https://ats-assist.com">ATS Assist Team</Link>
+        <Link href="#">ATS Assist Team</Link>
       </>
     ),
     links: [
       {
-        href: 'mailto:hello@ats-assist.com',
+        href: '#',
         label: 'Contact',
       },
       {
-        href: 'https://twitter.com/ats_assist',
+        href: '#',
         label: <FaTwitter size="14" />,
       },
       {
-        href: 'https://github.com/ats-assist',
+        href: '#',
         label: <FaGithub size="14" />,
       },
     ],
