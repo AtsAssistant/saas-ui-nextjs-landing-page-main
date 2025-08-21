@@ -371,9 +371,7 @@ const FeaturesSection = () => {
           <Br />
           track your job search progress with AI-powered insights.
           <Br />
-          <Text fontSize="lg" color="primary.500" mt="2">
-            🚀 <strong>Schedule a Demo</strong> - See the platform in action
-          </Text>
+        
         </>
       }
       align="left"
