@@ -260,7 +260,7 @@ const HighlightsSection = () => {
           </Box>
 
           
-          </Flex>
+          
         </VStack>
       </HighlightsItem>
       <HighlightsItem title="Personalized Demo Experience">
