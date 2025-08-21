@@ -123,9 +123,7 @@ const HeroSection: React.FC = () => {
                 Generate <Em>AI-optimized resumes</Em>
                 <Br /> and track every application in one place.
                 <Br />
-                <Text fontSize="md" color="primary.500" mt="2">
-                  🚀 Schedule a Demo - See How It Works
-                </Text>
+                
               </FallInPlace>
             }
           >
